@@ -1,0 +1,1 @@
+REPO_BASE="https://cdn.jsdelivr.net/gh/xieyi138-star/nexus-repo@main"
